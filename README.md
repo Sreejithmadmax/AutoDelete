@@ -1,5 +1,6 @@
 # AutoDelete-V2
 Delete group messages after a specific time
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sreejithmadmax/AutoDelete)
 
 ## Variables
 1. `API_ID` : Get from [my.telegram.org](https://my.telegram.org/)
